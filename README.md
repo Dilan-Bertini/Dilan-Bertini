@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dilan-Bertini
 - 👀 I’m interested in CyberSecurity and Programming
-- 🌱 I’m currently learning: Typescript, SQL (MySQL)
+- 🌱 I’m currently learning: Typescript, NestJS, TypeORM, Flutter, MySQL
 - 📫 How to reach me: bertini.dilan@gmail.com
 
 <!---
